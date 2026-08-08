@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/8f165833-5824-475d-8d45-ac675278243f" />
+
 # Chris Titus Tech's Windows Utility
 
 [![Version](https://img.shields.io/github/v/release/ChrisTitusTech/winutil?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/ChrisTitusTech/winutil/releases/latest)
